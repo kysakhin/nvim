@@ -4,7 +4,7 @@ add your language server in the
 ./lua/configs/lspconfig.lua 
 servers table
 
-https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md 
+https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md
 for the exact name of the server. 
 check the global installation of that language server from that particular gh page aswell
 might aswell ask gpt so it suggests the best language server

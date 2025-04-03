@@ -23,7 +23,7 @@ return {
       require("mason-lspconfig").setup({
         ensure_installed = {
           "lua-language-server", "stylua",
-          "html-lsp", "css-lsp" , "prettier", "gopls"
+          "html-lsp", "css-lsp" , "prettier"
         },
         highlight = { enable = true }
       })
